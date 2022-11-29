@@ -1,0 +1,38 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+h1
+{
+	color: black;
+	font-size: 3rem;
+}
+h3{
+	color: goldenrod;
+	background: black;
+	font-size: 2rem;
+
+}
+h4{
+	color: goldenrod;
+	background: black;
+	font-size: 2rem;
+}
+.container{
+	color:sliver;
+	background: gold;
+	font-size: 1rem;
+}
+h5{
+	color: goldenrod;
+	background: black;
+	font-size: 2rem;
+}
+u{
+	color: ghostwhite;
+	background: black;
+	font-size: 2rem;
+}
+p{
+	font-size: 1.5rem;
+}
